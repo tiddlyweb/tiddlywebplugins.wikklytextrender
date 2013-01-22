@@ -4,7 +4,7 @@ TiddlyWeb. Rendering is done using wikklytext.
 To use add one or both of the following to tiddlywebconfig.py:
 
     wikitext.default_renderer': 'wikklytextrender',
-    'wikitext.type_trender_map': {
+    'wikitext.type_render_map': {
         'text/x-tiddlywiki': 'wikklytextrender',
     },
 
